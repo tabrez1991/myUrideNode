@@ -4,3 +4,5 @@ profileUploads/
 uploadDriverlicenceUploads/
 uploadInssurancecardUploads/
 vehicleRegistrationUploads/
+
+.env
